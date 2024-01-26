@@ -1,6 +1,7 @@
 The Deep Learning and AI Specialization course offered by aiQuest Intelligence provides a comprehensive program designed to teach cutting-edge artificial intelligence, neural networks, and deep learning techniques. This course is aimed at equipping you with the skills needed to tackle real-world AI challenges.
 
 Key details of the course include:
+-----------------------------------
 - **Duration**: Over 50 hours of live classes.
 - **Projects**: The course involves completing 15 AI projects, offering practical experience and research opportunities.
 - **Materials**: You will have lifetime access to course materials and records, which are provided in Google Classroom.

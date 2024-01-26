@@ -5,7 +5,7 @@ Key details of the course include:
 - **Duration**: Over 50 hours of live classes.
 - **Projects**: The course involves completing 15 AI projects, offering practical experience and research opportunities.
 - **Materials**: You will have lifetime access to course materials and records, which are provided in Google Classroom.
-- **Support**: A Messenger group is available for live discussion, enhancing the learning experience through peer interaction.
+- **Support**: A Telegram Messenger group is available for live discussion, enhancing the learning experience through peer interaction.
 - **Assessment**: The course includes assignments and quizzes to reinforce learning.
 - **Certification**: Upon completion, participants receive a certificate.
 - **Career Support**: The course offers job and internship guidelines to assist with career progression.

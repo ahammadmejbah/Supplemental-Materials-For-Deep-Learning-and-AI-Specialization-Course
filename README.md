@@ -15,4 +15,4 @@ In addition to the course details, aiQuest Intelligence has a repository on GitH
 For more information or to enroll in the course, you can visit the aiQuest Intelligence website or their GitHub repository:
 
 - aiQuest Intelligence Course Details: [aiQuest Deep Learning & AI Specialization](https://aiquest.org/courses/deep-learning-and-ai-specialization/)
-- GitHub Repository: [aiQuest-Deep-Learning-and-AI-Specialization on GitHub](https://github.com/BytesOfIntelligences/aiQuest-Deep-Learning-and-AI-Specialization)
+- GitHub Repository: [aiQuest-Deep-Learning-and-AI-Specialization on GitHub](https://github.com/BytesOfIntelligences/Supplemental-Materials-For-Deep-Learning-and-AI-Specialization-Course)

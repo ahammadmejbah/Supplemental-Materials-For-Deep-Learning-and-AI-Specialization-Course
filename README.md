@@ -38,7 +38,7 @@ For more information or to enroll in the course, you can visit the aiQuest Intel
 
 
 
-<center> <h2>👨‍💻 Full Free Complete Artificial Intelligence Career Roadmap   👨‍💻 </h2></center>
+<center> <h2> Collections of Artificial Intelligence Documentations </h2></center>
 
 <center>
 <table>

@@ -33,3 +33,26 @@ For more information or to enroll in the course, you can visit the aiQuest Intel
 
 - aiQuest Intelligence Course Details: [aiQuest Deep Learning & AI Specialization](https://aiquest.org/courses/deep-learning-and-ai-specialization/)
 - GitHub Repository: [aiQuest-Deep-Learning-and-AI-Specialization on GitHub](https://github.com/BytesOfIntelligences/Supplemental-Materials-For-Deep-Learning-and-AI-Specialization-Course)
+
+
+
+
+
+<center> <h2>👨‍💻 Full Free Complete Artificial Intelligence Career Roadmap   👨‍💻 </h2></center>
+
+<center>
+<table>
+  <tr>
+    <th>Subject</th>
+    <th>Title</th>
+  </tr>
+  <tr>
+    <td> Statistics </td>
+    <td><a href="https://github.com/BytesOfIntelligences/Sampling-Methods-in-Statistics-Data-Science-Machine-Learning-and-Deep-Learning">Sampling Methods in Statistics, Data Science, Machine Learning and Deep Learning</a></td>
+  </tr>
+
+</table>
+</center>
+
+</body>
+</html>
